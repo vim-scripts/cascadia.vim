@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5026
+
+A light theme created in honor of the Cascadia Bioregion. As with the Cascadian flag, the colors of this theme are meant to represent the beauty of the Pacific Northwest. Scheme was designed with Python and LaTeX in mind. 
+This scheme will not work with terminals, and requires a recent version (7.3) to utilize all features. 
